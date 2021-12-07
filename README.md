@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**K-Oranger/K-Oranger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**K-Oranger/K-Orangerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
